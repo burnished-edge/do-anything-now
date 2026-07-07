@@ -1,4 +1,5 @@
 layout:
+  - AutoDismiss
   - PlumbingCalc
   - FindAndReplace
   - TransferOverrides
