@@ -4,3 +4,5 @@ layout:
   - FindAndReplace
   - TransferOverrides
   - TransferToTemplate
+  - BatchCADLink
+  - SpecText
